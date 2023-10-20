@@ -280,7 +280,7 @@
   { "sku": "BLW357145/52/57", "type": "order", "qty": 8 },
   { "sku": "OVY768503/84/79", "type": "refund", "qty": 5 },
   { "sku": "EMN370166/29/48", "type": "order", "qty": 10 },
-  { "sku": "LTV719449/39/39", "type": "order", "qty": 5 },
+  { "sku": "LTV719449/39/39", "type": "order", "qty": 7 },
   { "sku": "NPR640416/53/91", "type": "order", "qty": 6 },
   { "sku": "KZK692833/24/76", "type": "order", "qty": 2 },
   { "sku": "KPV897515/43/20", "type": "order", "qty": 0 },
